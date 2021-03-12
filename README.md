@@ -1,8 +1,13 @@
-![LogoYU](https://user-images.githubusercontent.com/72285339/110938098-ef9e5a00-8365-11eb-84c7-ecd877d66e17.jpg)
+## Hi there, I'm Arely - aka yusronab 👋
 
-👋 Hi, I’m @yusronab, I’m interested in Mobile Development, I’m currently learning Java and Kotlin
+[![yusronab's github stats](https://github-readme-stats.vercel.app/api?username=yusronab)](https://github.com/yusronab/yusronab)
 
-<!---
-yusronab/yusronab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I'm a Single Fighter Developer!
+ 🔭 I’m currently interesting on Mobile Delevopment
+ 🌱 I’m currently learning Java and Kotlin (beginner)
+ 👯 
+ 🥅 
+ ⚡ 
+
+### 📫 Contact Me
+- Instagram - [Yusron Arly](https://instagram.com/yusr0nab)
