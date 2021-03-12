@@ -3,7 +3,7 @@
 [![yusronab's github stats](https://github-readme-stats.vercel.app/api?username=yusronab)](https://github.com/yusronab/yusronab)
 
 ### I'm a College Student of PHB!
- 🔭 I’m currently interesting on Mobile Delevopment
+ 🔭 I’m currently interesting on Mobile Development
  🌱 Currently learning Java and Kotlin (Beginner)
  👯 Informatics Engineering Student
  🥅 
