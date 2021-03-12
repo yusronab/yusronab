@@ -2,7 +2,7 @@
 
 [![yusronab's github stats](https://github-readme-stats.vercel.app/api?username=yusronab)](https://github.com/yusronab/yusronab)
 
-### I'm a Single Fighter Developer!
+### I'm a Collage Student of PHB!
  🔭 I’m currently interesting on Mobile Delevopment
  🌱 I’m currently learning Java and Kotlin (beginner)
  👯 
