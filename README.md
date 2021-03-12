@@ -4,7 +4,7 @@
 
 ### I'm a College Student of PHB!
  🔭 I’m currently interesting on Mobile Delevopment
- 🌱 I’m currently learning Java and Kotlin (Beginner)
+ 🌱 Currently learning Java and Kotlin (Beginner)
  👯 Informatics Engineering Student
  🥅 
  ⚡ 
