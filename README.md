@@ -39,6 +39,6 @@
  Terimakasih <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Thanks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Xie Xie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" >  Arigatou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Shukran
 </h3>
  
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/yusronab">
     <img src="https://komarev.com/ghpvc/?username=yusronab">
 </a>
