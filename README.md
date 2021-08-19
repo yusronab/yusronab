@@ -25,13 +25,19 @@
 
 ## 📊 My Github Statistics
 
+<a href="https://github.com/yusronab">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yusronab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yusronab&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</a>
 
-<a href="https://github.com/yusronab"><img alt="yusronab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yusronab&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/yusronab">
+<img alt="yusronab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yusronab&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
 ## 🚀 Languages and Tools:
 
-<a href="https://github.com/yusronab"><img alt="yusronab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusronab&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/yusronab">
+<img alt="yusronab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusronab&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
 <h3  align='center'>
  Terimakasih <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Thanks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Xie Xie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" >  Arigatou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Shukran
