@@ -26,7 +26,7 @@
 ## 📊 My Github Statistics
 
 <a href="https://github.com/yusronab">
-<img alt="yusronab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yusronab&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<img alt="yusronab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yusronab&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
 <a href="https://github.com/yusronab">
