@@ -19,8 +19,6 @@
 <img alt="yusronab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yusronab&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
-## 🚀 Tech Stack
-
 ### 💻 Programming Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,dart)](https://skillicons.dev)
 
@@ -35,6 +33,10 @@
 
 ### 🛠 Tools & DevOps
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify)](https://skillicons.dev)
+
+<hr>
+
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 <h3  align='center'>
  Terimakasih <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Thanks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Xie Xie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" >  Arigatou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > Shukran
