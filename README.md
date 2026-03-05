@@ -20,19 +20,19 @@
 </a>
 
 ### 💻 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,dart)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,dart&perline=6)](https://skillicons.dev)
 
 ### 🎨 Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=react,vue,angular,nextjs,tailwind,svelte,vite,flutter,electron)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vue,angular,nextjs,tailwind,svelte,vite,flutter,electron&perline=6)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=6)](https://skillicons.dev)
 
-### 🗄 Database
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://skillicons.dev)
+### 🗃️ Database
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&perline=6)](https://skillicons.dev)
 
-### 🛠 Tools & DevOps
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify)](https://skillicons.dev)
+### 🛠️ Tools & DevOps
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify&perline=6)](https://skillicons.dev)
 
 <hr>
 
